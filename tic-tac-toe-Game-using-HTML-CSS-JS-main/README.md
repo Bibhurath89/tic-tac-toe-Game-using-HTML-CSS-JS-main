@@ -31,7 +31,7 @@ To run the game locally on your machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/chintamani-pala/tic-tac-toe-Game-using-HTML-CSS-JS.git
+   git clone https://github.com/Bibhurath89/tic-tac-toe-Game-using-HTML-CSS-JS.git
    ```
 2. setup:
   - 1. Navigate to the project directory.
