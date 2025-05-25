@@ -20,9 +20,9 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 
 ## Preview
   - **Drow:**
-![image](https://github.com/chintamani-pala/tic-tac-toe-Game-using-HTML-CSS-JS/assets/111286013/3e55c085-500d-43de-b18e-45c64b1836df)
+![image](https://github.com/Bibhurath89/tic-tac-toe-Game-using-HTML-CSS-JS/assets/111286013/3e55c085-500d-43de-b18e-45c64b1836df)
   - **Win:**
-    ![image](https://github.com/chintamani-pala/tic-tac-toe-Game-using-HTML-CSS-JS/assets/111286013/54be259c-6113-4687-a3cb-07e351e88683)
+    ![image](https://github.com/Bibhurath89/tic-tac-toe-Game-using-HTML-CSS-JS/assets/111286013/54be259c-6113-4687-a3cb-07e351e88683)
 
 
 ## How to Run Locally
